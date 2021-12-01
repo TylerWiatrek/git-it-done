@@ -43,4 +43,4 @@ var displayIssues = function(issues) {
 
 };
 
-getRepoIssues("TylerWiatrek");
+getRepoIssues("facebook/react");
